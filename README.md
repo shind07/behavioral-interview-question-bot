@@ -1,11 +1,11 @@
 # Behavioral Interview Question Bot
-A command line bot that will ask random behavioural interval questions.
+A command line bot that will ask random behavioural interview questions. This is intended to be used to prepare for a behavioral job interview.
 
 ## Usage
 
-- To start receiving questions, run `main.py`
-- To get the next question, press the enter key
-- To stop the bot, press ctrl+c
+- To start receiving questions in the terminal, run `main.py`
+- To get the next question: `enter`
+- To stop the bot: `ctrl+c`
 
 ```
 ╰─ python3 main.py
