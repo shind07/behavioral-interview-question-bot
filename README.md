@@ -9,7 +9,10 @@ A command line bot that will ask random behavioural interval questions.
 
 ```
 ╰─ python3 main.py
-1: Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
+1: Tell me about a time you had to be very strategic in order to meet all your top priorities.
 
 2: Tell me about a time when you made sure a customer was pleased with your service.
 ```
+
+## Credits
+Questions taken from [the muse](https://www.themuse.com/advice/30-behavioral-interview-questions-you-should-be-ready-to-answer).
