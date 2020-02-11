@@ -12,11 +12,11 @@ def load_questions():
 def main():
     """Ask a random question until the user terminates the loop"""
     questions = load_questions()
-    
+
     n = 1
     while True:
         question = random.choice(questions)
-        answer = input(f"{n}: {question}")
+        _ = input(f"{n}: {question}")
         n += 1
 
 
